@@ -1,6 +1,7 @@
 /*
 使用u8glib显示字符串
 控制器：Arduino UNO
+各设备对应的类及其构造函数https://github.com/olikraus/u8glib/wiki/device
 */
  
 // 包含头文件，并新建u8g对象
