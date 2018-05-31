@@ -1,6 +1,7 @@
 /*
 使用U8glib显示图片
 图片数据使用取模软件https://tools.clz.me/
+各设备对应的类及其构造函数https://github.com/olikraus/u8glib/wiki/device
 */
 
 // 包含头文件，并新建u8g对象
